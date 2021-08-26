@@ -1,0 +1,4 @@
+com\kyanja\model\Product.class
+com\kyanja\controller\ProductController.class
+com\kyanja\sevice\ProductService.class
+com\kyanja\repository\ProductRepository.class
