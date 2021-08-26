@@ -1,0 +1,2 @@
+# ThymeleafSpringDataMysqlCrudXMLconfiguration
+ThymeleafSpringDataMysqlCrudXMLconfiguration
